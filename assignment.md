@@ -106,7 +106,7 @@ A state chart diagram illustrates the many different states of a component in a 
 Finite state machine 
 
 
-Finite state machine is a computation chart that can be executed with hardware or software and can be used to create sequential logic and some pc programs. It is used to display the control execution flow.  This model can be used to show many problems, for example mathematical problems, artificial intelligence and game applications. The finite state machine is thought to be in a Boolean state. This means the state can either be on or off. 
+Finite state machine is a computation chart that can be executed with hardware or software and can be used to create sequential logic and some pc programs. It is used to display the control execution flow.  This model can be used to show many problems, for example mathematical problems, artificial intelligence and game applications. The finite state machine is thought to be in a Boolean state. This means the state can either be on or off. An example which can be used to show a state machine is a traffic light. 
 
 
 
