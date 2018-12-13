@@ -62,14 +62,29 @@ Lastly, how effective the solution is. Does it repair the problem fully or are s
 # Components of a feasibility report
 
 Market Feasibility 
+
+
 In this part the team will find out what is in the current market, from this they can evaluate if similar products are popular or there is a gap in the market for what they would like to develop. In this part of the study they can also evaluate their completion. They can see their strengths and weaknesses and use it to their own advantage by improving their own product. Another reason why market feasibility is done is to see who might buy the product. Understanding who the potential buyers are is important because the team can tailor the experience to their needs. For example, they might say how they would like the software to run, look and feel. You could then use this information and integrate into the planning of the product.
+
+
 Technical Feasibility 
+
+
 In this part the company will find out the type of equipment and technology that is required to develop the product. For example, a software company will find out what operating system and what programming language is best to use. Other things that can be identified is who are the potential suppliers, what services and guarantees are given and how long it will take to obtain the equipment and start the work. From looking at many different suppliers the company can see which supplier is the best for their business. 
+
+
 Financial Feasibility
 Here the company will look at the total start-up costs that are needed to begin the project. They will look at the equipment costs, the legal costs and accounting costs. Other costs include the running costs, these take into account wages, rent, utilities and any interest payments the company may have. Other aspect the company will look into is the potential revenue that could be obtained, this could be based on demand and this can help with pricing strategies. The company can also see who the potential lenders are and what the terms and conditions for borrowing are. From looking at all these costs the company can see if a return will be made from the investment. This can determine whether the company should go ahead with the project. 
+
 Organisational Feasibility
+
+
 This part of the study looks at the legal structure of the company, this could include a professional background information about the people who own the company and what skills they can bring.
+
+
 Conclusions  
+
+This part of feasibility will look at the report as a whole, this will sum up the feasibility report to see if it worth going ahead with the product or application. 
 (L03)
 # How software requirements can be traced throughout the software lifecycle
 
@@ -107,6 +122,8 @@ Finite state machine
 
 
 Finite state machine is a computation chart that can be executed with hardware or software and can be used to create sequential logic and some pc programs. It is used to display the control execution flow.  This model can be used to show many problems, for example mathematical problems, artificial intelligence and game applications. The finite state machine is thought to be in a Boolean state. This means the state can either be on or off. An example which can be used to show a state machine is a traffic light. 
+
+An Extended Finite state machine is 
 
 
 
