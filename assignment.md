@@ -64,8 +64,6 @@ Effectiveness compared: How effective the solution is. Does it repair the proble
 
 
 
-
-Lastly, 
 				
 # Components of a feasibility report
 
