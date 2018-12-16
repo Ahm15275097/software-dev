@@ -21,6 +21,7 @@ This methodology is used to build software incrementally using short iterations.
 # Sequential models
 Waterfall Model
 
+
 Every phase will need to go under a review and need to be signed off before moving onto the next part of the model. The first step in this model is the requirement analysis. The requirements are taken in from the customer, they are then analysed and document is created where all the requirements can be seen.  A Review of these documents will then happen, if successful the document will be signed off and the project moves in to the next phase. The next phase of the sequence is the system design. A team will use the requirements documentation to create blueprint for the software. For example, what services and programming languages to use, this will all be put down in a design specification.  Again a review will take place and if everyone is happy it will move on to the next phase. The next part is implementation. Now the developers will look at the design and turn it into code. There will make sure that the code meets all the requirements that were set in the previous phases. The second to last part is the testing of the code. In this phase the code is tested thoroughly to see if there are any issues with the software. The last part of this model is the operation and maintenance phase. The software is ready to functional and ready to use. In this part it is not just about the software being operational but also being maintained, this is so that updates or changes can be made. 
 
 
@@ -53,13 +54,13 @@ This is a study to see how successful an idea could be. This is a study to acces
 
 # How technical solutions can be compared
 
-Financially compared: Costs can be very important aspect to think about when coming up with a solution, It is essential to come up with an idea that is aesthetically and physically pleasing but also doesn't affect the companies finances.
+Financially compared: Costs can be very important aspect to think about when coming up with a solution, It is essential to come up with an idea that is aesthetically and physically pleasing but also doesn't affect the company’s finances.
 
 Skill level compared: The next technical solution that can be compared is the skills needed to help solve the problem. How difficult it is to solve the problem, how hard it is to put the solution in place. Is there enough skill level in house or will a third party be needed. 
 
 Time Taken compared: The time taken for a solution to be put in place, from this an analysis can be done to see how long each solution will take. The team can then can go for the best option, this preferably will be the one that will be the quickest but still making sure that quality remains high.
 
-Effectiveness compared: How effective the solution is. Does it repair the problem fully or are smaller problems create. Hoe difficult it is to implement the solution. Has this solution brought up more problems.
+Effectiveness compared: How effective the solution is. Does it repair the problem fully or are smaller problems created. How difficult it is to implement the solution. Has this solution brought up more problems.
 
 
 
@@ -116,7 +117,7 @@ A very good connection among the testers and engineers can assist the undertakin
 
 Software behavioural specification methods
 
-An activity diagram is used to show the flow of control in a framework and consults to the steps which are included in the implementation of the use case.  Activity diagrams show sequential and simultaneous tasks, meaning that it can either show a flow of information in a sequence or show a flow of information where many different tasks could happen at the same time. This diagram centres on the state of movement and the arrangement in which it occurs. This diagram shows the control from a beginning to an end point illustrating the many decision paths that exist while the action is being enforced. This is a chart which is utilised in business and process modelling where the main use is to show the dynamic parts of a system. Unified modelling language (UML) come in three types, structure diagrams, interaction diagrams, and behaviour diagrams. This diagram is behavioural diagram meaning it shows the behaviour of a system. Below is an example of an activity diagram:
+An activity diagram is used to show the flow of control in a framework and consults to the steps which are included in the implementation.  Activity diagrams show sequential and simultaneous tasks, meaning that it can either show a flow of information in a sequence or show a flow of information where many different tasks could happen at the same time. This diagram centres on the state of movement and the arrangement in which it occurs. This diagram shows the control from a beginning to an end point illustrating the many decision paths that exist while the action is being enforced. This is a chart which is utilised in business and process modelling where the main use is to show the dynamic parts of a system. Unified modelling language (UML) come in three types, structure diagrams, interaction diagrams, and behaviour diagrams. This diagram is behavioural diagram meaning it shows the behaviour of a system. Below is an example of an activity diagram:
 ![Chart]( https://i.imgur.com/5ddeMdc.png)
 
 A state chart diagram illustrates the many different states of a component in a system. These states are influenced by events which can happen either internally or externally. This chart illustrates the movement of control from one state to another. This particular chart is one of five UML charts which are utilised to show how the system can work. Various states are defined for an object and these events can change when a certain event takes place. This diagram is known as a reactive system because it responds to something happening. Additionally this chart can be utilised for forward and backward engineering but this is mainly used to show the reactive system. 
@@ -129,12 +130,9 @@ A state chart diagram illustrates the many different states of a component in a 
 Finite state machine 
 
 
-Finite state machine is a computation chart that can be executed with hardware or software and can be used to create sequential logic and some pc programs. It is used to display the control execution flow.  This model can be used to show many problems, for example mathematical problems, artificial intelligence and game applications. The finite state machine is thought to be in a Boolean state. This means the state can either be on or off. An example which can be used to show a state machine is a traffic light. The traffic light cosists of four states.  
+Finite state machine is a computation chart that can be executed with hardware or software and can be used to create sequential logic and some pc programs. It is used to display the control execution flow.  This model can be used to show many problems, for example mathematical problems, artificial intelligence and game applications. The finite state machine is thought to be in a Boolean state. This means the state can either be on or off. An example which can be used to show a state machine is a traffic light. The traffic light consists of four states.  
 
 An Extended Finite state machine is a transition which can be expressed by an if statement which includes a set of trigger conditions. If the trigger condition is met, the transition is executed, taking the machine from the current state to the next one and acts the specific operations. An example, is an elevator which has a various amounts of states depending on the amount of floors in a building.
-
-
-
 
 
 
