@@ -121,15 +121,17 @@ An activity diagram is used to show the flow of control in a framework and consu
 
 A state chart diagram illustrates the many different states of a component in a system. These states are influenced by events which can happen either internally or externally. This chart illustrates the movement of control from one state to another. This particular chart is one of five UML charts which are utilised to show how the system can work. Various states are defined for an object and these events can change when a certain event takes place. This diagram is known as a reactive system because it responds to something happening. Additionally this chart can be utilised for forward and backward engineering but this is mainly used to show the reactive system. 
 
+![chart](blob:https://imgur.com/f2992177-0a3a-4c6d-89b3-ece2fdfc3aad)
+
 
 # Finite state machine and Extended Finite state machine
 
 Finite state machine 
 
 
-Finite state machine is a computation chart that can be executed with hardware or software and can be used to create sequential logic and some pc programs. It is used to display the control execution flow.  This model can be used to show many problems, for example mathematical problems, artificial intelligence and game applications. The finite state machine is thought to be in a Boolean state. This means the state can either be on or off. An example which can be used to show a state machine is a traffic light. 
+Finite state machine is a computation chart that can be executed with hardware or software and can be used to create sequential logic and some pc programs. It is used to display the control execution flow.  This model can be used to show many problems, for example mathematical problems, artificial intelligence and game applications. The finite state machine is thought to be in a Boolean state. This means the state can either be on or off. An example which can be used to show a state machine is a traffic light. The traffic light cosists of four states.  
 
-An Extended Finite state machine is 
+An Extended Finite state machine is a transition which can be expressed by an if statement which includes a set of trigger conditions. If the trigger condition is met, the transition is executed, taking the machine from the current state to the next one and acts the specific operations. An example, is an elevator which has a various amounts of states depending on the amount of floors in a building.
 
 
 
