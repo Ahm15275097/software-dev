@@ -51,13 +51,21 @@ Iterations of the design happen again and again which massively reduces the risk
 
 This is a study to see how successful an idea could be. This is a study to access whether to go ahead with the project or not. There are many reasons why a business will do a feasibility study. A feasibility report gives a broad focus to the project and also helps to see what the alternatives are. For example a game developer might decide to build a shooting game, but from the feasibility report soon realised that this isn’t the current trend and will look at a different game to build. Another reason why a company will do this study is to find out who the competition are, from this the team can understand how to make their project different or how to improve what is already in the market. Feasibility reports are done to see if the project is financially viable. Here the team can see if a return will be made on the investment. An analysis will be done to see if the revenue will be more than the start-up costs. Lastly, a feasibility report can help receive funding from banks or money lending companies. If they can see the project has a good chance of succeeding, the company will more likely give you the money.  
 
-# How can technical solutions be compared
+# How technical solutions can be compared
 
-Technical solutions can be compared in many different ways. 
-Firstly, the time taken for a solution to be put in place, from this an analysis can be done to see how long each solution will take. The team can then can go for the best option, this preferably will be the one that will be the quickest.									   
-The next technical solution that can be compared is the skills needed to help solve the problem.	         
-How difficult it is to solve the problem, how hard it is to put the solution in place.
-Lastly, how effective the solution is. Does it repair the problem fully or are smaller problems create
+Financially compared: Costs can be very important aspect to think about when coming up with a solution, It is essential to come up with an idea that is aesthetically and physically pleasing but also doesn't affect the companies finances.
+
+Skill level compared: The next technical solution that can be compared is the skills needed to help solve the problem. How difficult it is to solve the problem, how hard it is to put the solution in place. Is there enough skill level in house or will a third party be needed. 
+
+Time Taken compared: The time taken for a solution to be put in place, from this an analysis can be done to see how long each solution will take. The team can then can go for the best option, this preferably will be the one that will be the quickest but still making sure that quality remains high.
+
+Effectiveness compared: How effective the solution is. Does it repair the problem fully or are smaller problems create. Hoe difficult it is to implement the solution. Has this solution brought up more problems.
+
+
+
+
+
+Lastly, 
 				
 # Components of a feasibility report
 
